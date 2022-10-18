@@ -1,0 +1,86 @@
+name: Flutter
+expertise:
+  - name: Flutter Jr
+    blocks: 
+      - dart-fundamentals:
+        priority: 10
+      - flutter-basic-widgets:
+        priority: 10
+      - oop-concepts:
+        priority: 10
+      - flutter-persistence:
+        priority: 10
+      - dart-async-exceptions:
+        priority: 10  
+      - flutter-web-api:
+        priority: 10          
+  - name: Flutter Mid
+    blocks:
+      - flutter-packages:
+        priority: 9
+      - flutter-state-management:
+        priority: 8
+      - flutter-tests:
+        priority: 8
+      - flutter-firebase:
+        priority: 7
+  - name: Flutter in depth
+    blocks:
+      - data-structures:
+        priority: 8
+      - flutter-animations:
+        priority: 8
+        optional: true
+      - flutter-multiplat:
+        priority: 8
+      - design-patterns:
+        priority: 7
+      - flutter-native:
+        priority: 7
+      - clean-architecture:
+        priority: 6
+        optional: true
+      - solid:
+        priority: 6
+        optional: true
+      - flutter-architecture:
+        priority: 6
+        optional: true
+collaboration:
+  - name: Infraestrutura e Back-end
+    blocks:
+      - git-and-github-fundamentals:
+        priority: 10
+      - http-fundamentals:
+        priority: 10
+      - json:
+        priority: 8
+      - design-patterns:
+        priority: 7
+      - command-line-fundamentals: 
+        priority: 7
+      - cloud-fundamentals: 
+        priority: 6
+        optional: true
+      - devops: 
+        priority: 6
+        optional: true
+      - ci-cd: 
+        priority: 6
+        optional: true
+  - name: UX e Design
+    blocks:
+      - design-systems:
+        priority: 4
+      - figma-fundamentals:
+        priority: 8
+      - design-components:
+        priority: 6
+      - color-systems:
+        priority: 5
+      - how-to-use-fonts:
+        priority: 5
+      - accessibility:
+        priority: 5
+      - responsiveness:
+        priority: 5

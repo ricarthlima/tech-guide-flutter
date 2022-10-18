@@ -1,0 +1,50 @@
+name: Flutter - Comunicação com Web API
+logo: 
+short-description:
+key-objectives:
+  - E
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: "O que é API REST?"
+    link: https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
+  - type: ARTICLE
+    title: "JSON e Serialização | Flutter Docs (inglês)"
+    link: https://docs.flutter.dev/development/data-and-backend/json
+  - type: SITE
+    title: "Página do Pacote http - pub.dev (inglês)"
+    link: https://pub.dev/packages/http
+  - type: ARTICLE
+    title: "Obtendo dados da internet | Flutter Cookbook (inglês)"
+    link: https://docs.flutter.dev/cookbook/networking/fetch-data
+  - type: ARTICLE
+    title: "Fazendo requisições autenticadas | Flutter Cookbook (inglês)"
+    link: https://docs.flutter.dev/cookbook/networking/authenticated-requests
+  - type: ARTICLE
+    title: "Enviando dados para internet | Flutter Cookbook (inglês)"
+    link: https://docs.flutter.dev/cookbook/networking/send-data
+  - type: ARTICLE
+    title: "Removendo dados na internet | Flutter Cookbook (inglês)"
+    link: https://docs.flutter.dev/cookbook/networking/delete-data
+  - type: SITE
+    title: "SQL: O que é e como usar os principais comandos básicos SQL"
+    link: https://blog.betrybe.com/sql/
+  - type: YOUTUBE
+    title: "Curso de Flutter #40 - [API] Consumindo API externa (http)"
+    link: https://youtu.be/vjeK_oc5cXQ
+  - type: YOUTUBE
+    title: "Como usar o Postman para Testar APIs Rest (Aula 10)"
+    link: https://youtu.be/5S9mMBEtJK4
+alura-contents:
+  - type: ARTICLE
+    title: "REST: Conceito e fundamentos"
+    link: https://www.alura.com.br/artigos/rest-conceito-e-fundamentos#:~:text=REST(Representational%20State%20Transfer%2C%20que,existentes%20da%20Web%20sem%20a
+  - type: ARTICLE
+    title: "Flutter: entendendo comunicação HTTP e utilizando Web API"
+    link: https://www.alura.com.br/conteudo/flutter-comunicacao-http
+    title: "Flutter: entendendo comunicação HTTP e utilizando Web API"
+    link: https://cursos.alura.com.br/course/flutter-web-api-integrando-aplicacao
+  - type: COURSE
+    title: "Flutter com Web API: evoluindo na integração da aplicação"
+    link: https://cursos.alura.com.br/course/flutter-web-api-integracao-aplicacao
+  
