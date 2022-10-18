@@ -2,7 +2,10 @@ name: Flutter - Comunicação com Web API
 logo: 
 short-description:
 key-objectives:
-  - E
+  - Entender o que é uma API REST
+  - Conhecer os comandos básicos de comunicação HTTP
+  - Saber usar as ferramentas do pacote `http` do Dart
+  - Saber fazer requisições autenticadas para Web APIs
 aditional-objectives:
 contents:
   - type: ARTICLE
@@ -26,9 +29,6 @@ contents:
   - type: ARTICLE
     title: "Removendo dados na internet | Flutter Cookbook (inglês)"
     link: https://docs.flutter.dev/cookbook/networking/delete-data
-  - type: SITE
-    title: "SQL: O que é e como usar os principais comandos básicos SQL"
-    link: https://blog.betrybe.com/sql/
   - type: YOUTUBE
     title: "Curso de Flutter #40 - [API] Consumindo API externa (http)"
     link: https://youtu.be/vjeK_oc5cXQ
