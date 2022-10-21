@@ -5,7 +5,7 @@ key-objectives:
   - Entender o que é persistência de dados
   - Saber a armazenar dados usando o SharedPreferences
   - Aprender a usar o SQLite no Flutter
-  - Aprender como resistir dados com Leitura e Escrita de arquivos
+  - Aprender como persistir dados com Leitura e Escrita de arquivos
 aditional-objectives:
 contents:
   - type: SITE
