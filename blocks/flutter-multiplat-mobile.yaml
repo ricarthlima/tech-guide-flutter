@@ -1,0 +1,23 @@
+name: Flutter - Multiplataforma
+logo: 
+short-description:
+key-objectives:
+  - 
+aditional-objectives:
+contents:
+  # Android
+  - https://docs.flutter.dev/development/platform-integration/android/platform-views
+  - https://docs.flutter.dev/development/platform-integration/android/plugin-api-migration
+  - https://docs.flutter.dev/development/platform-integration/android/androidx-migration
+  - https://docs.flutter.dev/development/platform-integration/android/splash-screen-migration
+
+  # iOS
+  - https://docs.flutter.dev/development/ui/widgets/cupertino
+  - https://github.com/flutter/samples/tree/main/veggieseasons
+  - https://www.youtube.com/watch?v=ZBJa-xjZl3w&ab_channel=Flutter
+  - https://docs.flutter.dev/development/platform-integration/ios/ios-app-clip
+  - https://docs.flutter.dev/development/platform-integration/ios/platform-views
+  
+alura-contents:
+
+  

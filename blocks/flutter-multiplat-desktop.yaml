@@ -1,0 +1,24 @@
+name: Flutter - Multiplataforma
+logo: 
+short-description:
+key-objectives:
+  - 
+aditional-objectives:
+contents:
+  # Desktop
+  - https://flutter.dev/multi-platform/desktop
+
+  # Linux
+  - https://docs.flutter.dev/development/platform-integration/linux/building
+
+  # Windows
+  - https://docs.flutter.dev/development/platform-integration/desktop
+  - https://docs.flutter.dev/development/platform-integration/windows/building
+
+  # macOS
+  - https://docs.flutter.dev/development/platform-integration/macos/building
+  - https://docs.flutter.dev/development/platform-integration/macos/c-interop
+
+alura-contents:
+
+  

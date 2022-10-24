@@ -12,7 +12,7 @@ expertise:
         priority: 10
       - dart-async-exceptions:
         priority: 10  
-      - flutter-web-api:
+      - flutter-api:
         priority: 10          
   - name: Flutter Mid
     blocks:
@@ -24,28 +24,39 @@ expertise:
         priority: 8
       - flutter-firebase:
         priority: 7
+      - flutter-debugging:
+        priority: 6
+        optional: true
+      - flutter-games:
+        priority: 6
+        optional: true
   - name: Flutter in depth
-    blocks:
+    blocks:      
+      - flutter-web:
+        priority: 8
       - data-structures:
         priority: 8
+        optional: true
       - flutter-animations:
         priority: 8
-        optional: true
-      - flutter-multiplat:
+      - flutter-multiplat-mobile:
         priority: 8
+      - flutter-multiplat-desktop:
+        priority: 8
+        optional: true      
+      - flutter-deployment:
+        priority: 6
       - design-patterns:
         priority: 7
+        optional: true      
       - flutter-native:
         priority: 7
       - clean-architecture:
         priority: 6
-        optional: true
       - solid:
         priority: 6
-        optional: true
       - flutter-architecture:
-        priority: 6
-        optional: true
+        priority: 6      
 collaboration:
   - name: Infraestrutura e Back-end
     blocks:

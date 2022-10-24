@@ -1,0 +1,18 @@
+name: Flutter - Nativo e Plugins
+logo: 
+short-description:
+key-objectives:
+  - 
+aditional-objectives:
+contents:
+  - https://docs.flutter.dev/development/platform-integration/platform-channels  
+  - https://dart.dev/guides/libraries/c-interop  
+  - https://docs.flutter.dev/development/platform-integration/android/c-interop  
+  - https://docs.flutter.dev/development/platform-integration/ios/c-interop
+  - https://docs.flutter.dev/development/packages-and-plugins/developing-packages
+  - https://dart.dev/web/js-interop
+  - https://docs.flutter.dev/development/packages-and-plugins/developing-packages#federated-plugins
+  - https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md
+alura-contents:
+
+  
