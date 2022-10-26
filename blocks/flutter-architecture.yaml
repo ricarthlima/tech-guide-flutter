@@ -5,7 +5,10 @@ key-objectives:
   - 
 aditional-objectives:
 contents:
-  - https://docs.flutter.dev/resources/architectural-overview
+  - https://medium.com/ruangguru/an-introduction-to-flutter-clean-architecture-ae00154001b0
+  - https://medium.com/flutterworld/flutter-mvvm-architecture-f8bed2521958
+  - https://medium.flutterdevs.com/design-patterns-in-flutter-part-1-c32a3ddb00e2
+  - https://codewithandrea.com/articles/flutter-project-structure/
 alura-contents:
 
   

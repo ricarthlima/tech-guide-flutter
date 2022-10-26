@@ -13,6 +13,19 @@ contents:
   - https://dart.dev/web/js-interop
   - https://docs.flutter.dev/development/packages-and-plugins/developing-packages#federated-plugins
   - https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md
+
+  # Android
+  - https://docs.flutter.dev/development/platform-integration/android/platform-views
+  - https://docs.flutter.dev/development/platform-integration/android/plugin-api-migration
+  - https://docs.flutter.dev/development/platform-integration/android/androidx-migration
+  - https://docs.flutter.dev/development/platform-integration/android/splash-screen-migration
+
+  # iOS
+  - https://docs.flutter.dev/development/ui/widgets/cupertino
+  - https://github.com/flutter/samples/tree/main/veggieseasons
+  - https://www.youtube.com/watch?v=ZBJa-xjZl3w&ab_channel=Flutter
+  - https://docs.flutter.dev/development/platform-integration/ios/ios-app-clip
+  - https://docs.flutter.dev/development/platform-integration/ios/platform-views
 alura-contents:
 
   

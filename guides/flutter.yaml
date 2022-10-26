@@ -31,26 +31,24 @@ expertise:
         priority: 6
         optional: true
   - name: Flutter in depth
-    blocks:      
-      - flutter-web:
-        priority: 8
+    blocks:   
+      - flutter-native:
+        priority: 9      
       - data-structures:
         priority: 8
         optional: true
       - flutter-animations:
         priority: 8
-      - flutter-multiplat-mobile:
-        priority: 8
       - flutter-multiplat-desktop:
+        priority: 8
+      - flutter-multiplat-web:
         priority: 8
         optional: true      
       - flutter-deployment:
         priority: 6
       - design-patterns:
         priority: 7
-        optional: true      
-      - flutter-native:
-        priority: 7
+        optional: true   
       - clean-architecture:
         priority: 6
       - solid:
