@@ -54,7 +54,10 @@ expertise:
       - solid:
         priority: 6
       - flutter-architecture:
-        priority: 6      
+        priority: 6   
+      - flutter-plugins:
+        priority: 5
+        optional: true   
 collaboration:
   - name: Infraestrutura e Back-end
     blocks:
