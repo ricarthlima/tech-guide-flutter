@@ -22,31 +22,31 @@ contents:
     title: "Entendendo Null Safety (inglês)"
     link: https://dart.dev/null-safety/understanding-null-safety
   - type: YOUTUBE
-    title: "Dart (a linguagem do Flutter) // Dicionário do Programador"
+    title: "Código Fonte TV: Dart (a linguagem do Flutter) // Dicionário do Programador"
     link: https://youtu.be/i7IzlVImHEc
   - type: YOUTUBE
-    title: "Dart ou Flutter: Por onde começar?"
+    title: "Dotcode: Dart ou Flutter - Por onde começar?"
     link: https://youtu.be/s7VNmqw6wLM
 alura-contents:
+  - type: YOUTUBE
+    title: "Alura: Entendendo Input e Output no Dart"
+    link: https://www.youtube.com/watch?v=LLmBWjF6F8M
+  - type: YOUTUBE
+    title: "Alura: Os 5 métodos da lista do Dart | #AluraMais"
+    link: https://youtu.be/pcnfjJG3jY4
+  - type: YOUTUBE
+    title: "Alura: Const e Final no Dart | #Aluramais"
+    link: https://youtu.be/bEz0VbZ3C7A
+  - type: YOUTUBE
+    title: "Alura: O que você precisa saber sobre Null Safety no Dart | #AluraMais"
+    link: https://youtu.be/OkjjhHXlRl0
   - type: COURSE
     title: "Dart: criando e manipulando variáveis e listas"
     link: https://cursos.alura.com.br/course/dart-variaveis-listas
-  - type: YOUTUBE
-    title: "Entendendo Input e Output no Dart"
-    link: https://www.youtube.com/watch?v=LLmBWjF6F8M
-  - type: YOUTUBE
-    title: "Os 5 métodos da lista do Dart | #AluraMais"
-    link: https://youtu.be/pcnfjJG3jY4
   - type: COURSE
     title: "Dart: entendendo a Orientação a Objetos"
     link: https://cursos.alura.com.br/course/dart-entendendo-orientacao-objetos
   - type: COURSE
     title: "Dart: sintaxe, coleções e dinamismo"
     link: https://cursos.alura.com.br/course/dart-sintaxe-colecoes-dinamismo
-  - type: YOUTUBE
-    title: "Const e Final no Dart | #Aluramais"
-    link: https://youtu.be/bEz0VbZ3C7A
-  - type: YOUTUBE
-    title: "O que você precisa saber sobre Null Safety no Dart | #AluraMais"
-    link: https://youtu.be/OkjjhHXlRl0
   

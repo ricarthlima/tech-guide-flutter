@@ -22,10 +22,10 @@ contents:
     title: "Pacotes Populares | pub.dev (inglês)"
     link: https://pub.dev/packages?sort=popularity
   - type: YOUTUBE
-    title: "TOP 5 PACOTES FLUTTER QUE VOCÊ PRECISA CONHECER"
+    title: "Dotcode: TOP 5 PACOTES FLUTTER QUE VOCÊ PRECISA CONHECER"
     link: https://youtu.be/Fc8D_6TtiKw
   - type: YOUTUBE
-    title: "(Playlist) Package of the Week | Flutter"
+    title: "Flutter: (Playlist) Package of the Week | Flutter"
     link: https://www.youtube.com/playlist?list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK
   - type: ARTICLE
     title: "12 Bibliotecas úteis para auxiliar no desenvolvimento utilizando Flutter"

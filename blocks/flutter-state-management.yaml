@@ -23,10 +23,10 @@ contents:
     title: "Opções de Ferramentas para Gerenciamento de Estados | Flutter Docs (inglês)"
     link: https://docs.flutter.dev/development/data-and-backend/state-mgmt/options
   - type: YOUTUBE
-    title: "Aulão sobre Provider e estrutura de projetos"
+    title: "Flutterando: Aulão sobre Provider e estrutura de projetos"
     link: https://www.youtube.com/watch?v=VhsqMahAmOk&ab_channel=Flutterando
   - type: YOUTUBE
-    title: "Pragmatic State Management Using Provider"
+    title: "Flutter: Pragmatic State Management Using Provider"
     link: https://www.youtube.com/watch?v=HrBiNHEqSYU&ab_channel=Flutter
 alura-contents:
   - type: ARTICLE

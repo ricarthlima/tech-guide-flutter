@@ -20,17 +20,17 @@ contents:
   - type: SITE
     title: "SQL: O que é e como usar os principais comandos básicos SQL"
     link: https://blog.betrybe.com/sql/
-  - type: YOUTUBE
-    title: SQLite (O Banco de Dados de Bolso) // Dicionário do Programador
-    link: https://www.youtube.com/watch?v=xOODmm-NdUc&ab_channel=C%C3%B3digoFonteTV
   - type: ARTICLE
     title: "SQLite: Principais comandos, dicas, como instalar… (Parte 1)"
     link: https://medium.com/@mattvianna/sqlite-principais-comandos-dicas-como-instalar-parte-1-bb94e0134935
+  - type: YOUTUBE
+    title: "Código Fonte TV: SQLite (O Banco de Dados de Bolso) // Dicionário do Programador"
+    link: https://www.youtube.com/watch?v=xOODmm-NdUc&ab_channel=C%C3%B3digoFonteTV
 alura-contents:
-  - type: COURSE
-    title: "Flutter: aplicando persistência de dados"
-    link: https://cursos.alura.com.br/course/flutter-aplicando-persistencia-dados
   - type: ARTICLE
     title: "SQLite: da instalação até sua primeira tabela"
     link: https://www.alura.com.br/artigos/sqlite-da-instalacao-ate-primeira-tabela
-  
+  - type: COURSE
+    title: "Flutter: aplicando persistência de dados"
+    link: https://cursos.alura.com.br/course/flutter-aplicando-persistencia-dados
+    
