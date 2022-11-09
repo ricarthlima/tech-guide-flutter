@@ -46,15 +46,16 @@ expertise:
         optional: true      
       - flutter-deployment:
         priority: 6
-      - design-patterns:
-        priority: 7
         optional: true   
       - clean-architecture:
         priority: 6
       - solid:
         priority: 6
       - flutter-architecture:
-        priority: 6      
+        priority: 6   
+      - flutter-plugins:
+        priority: 5
+        optional: true   
 collaboration:
   - name: Infraestrutura e Back-end
     blocks:
