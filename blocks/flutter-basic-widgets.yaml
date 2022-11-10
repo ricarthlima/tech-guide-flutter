@@ -18,25 +18,25 @@ contents:
     title: "Catálogo de Widgets (inglês)"
     link: https://docs.flutter.dev/development/ui/widgets
   - type: YOUTUBE
-    title: "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter"
+    title: "Filipe Deschamps: A Primeira Aula de Flutter Que Todo Mundo Deveria Ter"
     link: https://youtu.be/J4BVaXkwmM8
+  - type: YOUTUBE
+    title: "Flutter: Widget of the Week (Playlist em Inglês)"
+    link: https://www.youtube.com/watch?v=XawP1i314WM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
 alura-contents:
   - type: YOUTUBE
-    title: "O que é Flutter? #HipstersPontoTube"
+    title: "Alura: O que é Flutter? #HipstersPontoTube"
     link: https://youtu.be/So5C-XSfGW0
+  - type: YOUTUBE
+    title: "Alura: Live Coding | Desenvolva um aplicativo em Flutter!"
+    link: https://youtu.be/j8Swzym_EEc
+  - type: YOUTUBE
+    title: "Alura: A Primeira Aula de Flutter Que Todo Mundo Deveria Ter"
+    link: https://youtu.be/J4BVaXkwmM8
   - type: COURSE
     title: "Flutter: Widgets, Stateless, Stateful, Imagens e Animações"
     link: https://cursos.alura.com.br/course/flutter-widgets-stateless-stateful-imagens-animacoes
-  - type: YOUTUBE
-    title: "Flutter - Widget of the Week (Playlist em Inglês)"
-    link: https://www.youtube.com/watch?v=XawP1i314WM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
   - type: COURSE
     title: "Flutter: Controller, navegação e estados"
     link: https://cursos.alura.com.br/course/flutter-controller-navegacao-estados
-  - type: YOUTUBE
-    title: "Live Coding | Desenvolva um aplicativo em Flutter!"
-    link: https://youtu.be/j8Swzym_EEc
-  - type: YOUTUBE
-    title: "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter"
-    link: https://youtu.be/J4BVaXkwmM8
   

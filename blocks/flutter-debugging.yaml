@@ -8,7 +8,7 @@ key-objectives:
 aditional-objectives:
 contents:
   - type: YOUTUBE
-    title: "Depuração (Breakpoint)"
+    title: "Flutterando: Depuração (Breakpoint)"
     link: https://youtu.be/cUMsu0Kxo7k  
   - type: ARTICLE
     title: "Depurando Aplicativos Flutter | Flutter Docs (inglês)"
@@ -20,16 +20,16 @@ contents:
     title: "Usando um depurador OEM | Flutter Docs (inglês)"
     link: https://docs.flutter.dev/testing/oem-debuggers  
   - type: YOUTUBE
-    title: "Propriedades de Depuração | Decoding Flutter (inglês)"
+    title: "Flutter: Propriedades de Depuração | Decoding Flutter (inglês)"
     link: https://youtu.be/DnC7eT-vh1k
   - type: YOUTUBE
-    title: "Depure e crie o perfil do seu aplicativo com o Flutter DevTools | Demo (inglês)"
+    title: "Flutter: Depure e crie o perfil do seu aplicativo com o Flutter DevTools | Demo (inglês)"
     link: https://youtu.be/J7s5bu49k3U
   - type: ARTICLE
     title: "Conhecendo o Dart DevTools | Dart Docs (inglês)"
     link: https://dart.dev/tools/dart-devtools 
   - type: YOUTUBE
-    title: "Dart DevTools | Decoding Flutter (inglês)"
+    title: "Flutter: Dart DevTools | Decoding Flutter (inglês)"
     link: https://youtu.be/nq43mP7hjAE
 alura-contents:
 
